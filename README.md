@@ -4,7 +4,7 @@ View your current playing song on ESP32 &amp; OLED display using Spotify API
 
 ### Spotify
 - Visit Spotify Dashboard [`https://developer.spotify.com/dashboard/login`](https://developer.spotify.com/dashboard/login)
-- Create an app
+- [`Create an app`](https://developer.spotify.com/documentation/general/guides/authorization/app-settings/)
 - Copy Client ID to sketch
 - Add Redirect URI http://httpbin.org/anything & Save in `Edit Settings`
 
