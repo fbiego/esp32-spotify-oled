@@ -1,6 +1,9 @@
 # esp32-spotify-oled
 View your current playing song on ESP32 &amp; OLED display using Spotify API
 
+### Libraries
+- [`OLED_I2C`](http://www.rinkydinkelectronics.com/library.php?id=79)
+
 
 ### Spotify
 - Visit Spotify Dashboard [`https://developer.spotify.com/dashboard/login`](https://developer.spotify.com/dashboard/login)
